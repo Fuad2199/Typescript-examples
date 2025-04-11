@@ -1,5 +1,5 @@
 # Typescript examples
-In this repository I learn TypeScript practically and also revise it.
+#### In this repository I learn TypeScript practically and also revise it.
 <br>
 ## Why should we learn TypeScript?
 ## Why is Typescript important?
