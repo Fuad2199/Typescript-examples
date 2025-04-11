@@ -1,23 +1,23 @@
 # Typescript examples
 In this repository I learn TypeScript practically and also revise it.
 <br>
-Why should we learn TypeScript?
+## Why should we learn TypeScript?
 <br>
-Why is Typescript important?
+## Why is Typescript important?
 <br>
-TypeScript is becoming the preferred language for modern web development due to its advantages over JavaScript:
+### TypeScript is becoming the preferred language for modern web development due to its advantages over JavaScript:
 <br>
-Improved Code Quality: TypeScript adds type checking to JavaScript, which helps catch mistakes early and makes the code safer to use.
+### Improved Code Quality: TypeScript adds type checking to JavaScript, which helps catch mistakes early and makes the code safer to use.
 <br>
-Better Scalability: TypeScript is used to manage and grow large projects. It makes it easier to maintain complex codebases over time.
+### Better Scalability: TypeScript is used to manage and grow large projects. It makes it easier to maintain complex codebases over time.
 <br>
-Works Well with JavaScript: TypeScript is a superset of JavaScript, which means you can use both in the same project. You don’t need to rewrite your existing
+### Works Well with JavaScript: TypeScript is a superset of JavaScript, which means you can use both in the same project. You don’t need to rewrite your existing
 <br>
-JavaScript code to start using TypeScript.
+### JavaScript code to start using TypeScript.
 <br>
-Better Developer Tools: TypeScript works well with code editors and tools. It offers features like autocompletion, debugging, and type checking, which help developers
+### Better Developer Tools: TypeScript works well with code editors and tools. It offers features like autocompletion, debugging, and type checking, which help developers
 <br>
-write code faster and with fewer errors.
+### write code faster and with fewer errors.
 <br>
 Works With Popular Frameworks: TypeScript is commonly used with frameworks like React, Angular, and Vue, which improves type safety and the overall developer
 <br>
