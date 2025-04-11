@@ -1,6 +1,5 @@
 # Typescript examples
 #### In this repository I learn TypeScript practically and also revise it.
-<br>
 ## Why should we learn TypeScript?
 ## Why is Typescript important?
 ### 1.TypeScript is becoming the preferred language for modern web development due to its advantages over JavaScript:
