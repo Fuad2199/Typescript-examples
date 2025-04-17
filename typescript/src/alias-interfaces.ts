@@ -48,3 +48,18 @@ const coloredRectangle: ColoredRectangle = {
     color: "red"
 };
 console.log(coloredRectangle)
+
+// Template Literal Types (Advanced Type Alias)
+
+type BaseEvents = "click" | "mouseOver" | "keyDown";
+type EventName = `on${Capitalize<BaseEvents>}`;
+
+// EventName => "onClick" | "onMouseOver" | "onKeyDown"
+
+function handleEvent(event: EventName) {
+    console.log(`Handling event: ${event}`);
+}
+
+handleEvent("onClick");
+handleEvent('onMouseOver');
+handleEvent('onKeyDown');
