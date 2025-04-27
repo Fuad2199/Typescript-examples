@@ -47,3 +47,13 @@ validateUserData({ name: "Fuad", age: 25, email: "fuad.beybutov099@gmail.com"});
 validateUserData(null);
 validateUserData(undefined);
 validateUserData({ name: 123, age: "twenty", email: "noemail" });
+
+
+// next example
+
+function validateProductData(data: unknown): void {
+  if (data === null && undefined) {
+    console.warn("The information provided is null and undefined")
+  }
+}
+console.log(validateProductData)
