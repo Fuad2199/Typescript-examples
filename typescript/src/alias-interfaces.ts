@@ -74,7 +74,7 @@ const coloredRectangle: ColoredRectangle = {
   width: 10,
   color: "red",
 };
-console.log(coloredRectangle);
+console.log(coloredRectangle)
 
 // Template Literal Types (Advanced Type Alias)
 
